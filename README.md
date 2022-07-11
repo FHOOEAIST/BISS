@@ -1,6 +1,6 @@
 # BISS - Bio image segmentation service
 
-This software performs the segmentation of blood vessels in MRI-Volumes of mouse brains.  
+This software performs the segmentation of blood vessels in MRI-Volumes of mural brains.  
 A combination of a neuronal net (UNet) and various image processing steps is used.
 
 ![Image of algorithm segmentation pipeline](<./misc/algorithm.png>) 
