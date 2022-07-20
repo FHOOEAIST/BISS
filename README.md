@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6821322.svg)](https://doi.org/10.5281/zenodo.6821322)
+
 # BISS - Bio image segmentation service
 
 This software performs the segmentation of blood vessels in MRI-Volumes of mural brains.  
